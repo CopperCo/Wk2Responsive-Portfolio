@@ -212,8 +212,6 @@ button {
   header {
     margin: 0 auto;
     padding: 0 200px;
-    background-color: #a9bbb8;
-    margin-bottom: 25px;
   }
 
   header::after {
@@ -287,8 +285,6 @@ button {
   header {
     margin: 0 auto;
     padding: 0 50px;
-    background-color: #a9bbb8;
-    margin-bottom: 25px;
   }
 
   header::after {
